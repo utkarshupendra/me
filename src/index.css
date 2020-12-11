@@ -24,3 +24,18 @@ code {
 .articles {
   padding-top: 5rem;
 }
+
+.profile-picture {
+  height: 30%;
+}
+
+.pp {
+  padding-left: 5%;
+}
+
+.about {
+  align-content: space-around;
+  padding-left: 10%;
+  padding-right: 20%;
+  word-wrap: break-word;
+}
