@@ -2,7 +2,8 @@ import React from 'react';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Articles from './articles';
-import { HashRouter, Route, Link } from "react-router-dom";
+import Default from './default'
+import { HashRouter, Route, Link, Switch } from "react-router-dom";
 
 
 export default function Header() {
@@ -20,9 +21,14 @@ export default function Header() {
   </Navbar.Collapse>
   </Navbar>
   <div>
+      <Switch>
+        <Route exact path="/">
+            <Default />
+          </Route>
           <Route path="/articles">
             <Articles />
           </Route>
+          </Switch>
           </div>
           </div>
           </HashRouter>

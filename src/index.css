@@ -12,10 +12,6 @@ code {
     monospace;
 }
 
-.global {
-  background-image: url("./background.jpg");
-}
-
 .header {
   background-color: aquamarine;
   position: fixed;
