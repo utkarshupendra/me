@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/utkarsh-upendra/static/css/main.ad737ccd.chunk.css",
+    "main.js": "/utkarsh-upendra/static/js/main.27a2d61c.chunk.js",
+    "main.js.map": "/utkarsh-upendra/static/js/main.27a2d61c.chunk.js.map",
+    "runtime-main.js": "/utkarsh-upendra/static/js/runtime-main.8a92df33.js",
+    "runtime-main.js.map": "/utkarsh-upendra/static/js/runtime-main.8a92df33.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/utkarsh-upendra/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a83013dc.chunk.js": "/utkarsh-upendra/static/js/2.a83013dc.chunk.js",
+    "static/js/2.a83013dc.chunk.js.map": "/utkarsh-upendra/static/js/2.a83013dc.chunk.js.map",
+    "static/js/3.6c5dde4d.chunk.js": "/utkarsh-upendra/static/js/3.6c5dde4d.chunk.js",
+    "static/js/3.6c5dde4d.chunk.js.map": "/utkarsh-upendra/static/js/3.6c5dde4d.chunk.js.map",
+    "index.html": "/utkarsh-upendra/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/utkarsh-upendra/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ad737ccd.chunk.css.map": "/utkarsh-upendra/static/css/main.ad737ccd.chunk.css.map",
+    "static/js/2.a83013dc.chunk.js.LICENSE.txt": "/utkarsh-upendra/static/js/2.a83013dc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/utkarsh-upendra/static/media/background.9b76c96c.jpg",
+    "static/media/logo.6ce24c58.svg": "/utkarsh-upendra/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a92df33.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a83013dc.chunk.js",
+    "static/css/main.ad737ccd.chunk.css",
+    "static/js/main.27a2d61c.chunk.js"
+  ]
+}
