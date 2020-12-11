@@ -1,12 +1,11 @@
 import React from 'react';
 import ArticleCard from './articlecard';
-import Button from 'react-bootstrap/Button';
 import { Col, Container, Row } from 'react-bootstrap';
 
 export default function Home(props) {
     return(<div>
       <Container className="articles">
-      <p>I am a passionate about science and technology and hence find a lot of interest in reading and writing about the same. Here are a few articles.</p>
+      <p>I am passionate about science and technology and hence find a lot of interest in reading and writing about the same. Here are a few articles.</p>
         <Row>
           <Col><ArticleCard id='1' title ='Hyperloglog (HLL) Algorithm' text='HyperLogLog is an algorithm for the count-distinct problem, approximating the number of distinct elements in a multiset. Calculating the exact cardinality of a multiset requires an amount of memory proportional to the cardinality, which is impractical for very large data sets.' link='https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/'/></Col>
           <Col><ArticleCard id='2' title ='Hash Trees' text='Article on Hash Trees, conceptualized by Ralph Merkle in 1979, but very relevant in current space when every software system is moving to a decentralized and distributed architecture' link='https://www.linkedin.com/pulse/hash-trees-merkle-utkarsh-upendra/'/></Col>

@@ -18,6 +18,7 @@ code {
 
 .header {
   background-color: aquamarine;
+  position: fixed;
 }
 
 .body {
@@ -25,5 +26,5 @@ code {
 }
 
 .articles {
-  padding-top: 8%;
+  padding-top: 5rem;
 }
